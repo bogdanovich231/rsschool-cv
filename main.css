@@ -1,0 +1,140 @@
+body {
+	font-family: Regular, playfairdisplay;
+	color:#808080;
+	background-image: url(img/img1.jpg)  no-repeat center ; /* Путь к фоновому изображению */
+    background-color: #fff; /* Цвет фона */
+    margin: 0; /* Убираем отступы в браузере */
+    padding: 0;
+}
+.logo {
+	float: left;
+	padding-left: 70px;
+	margin-top: 49px;
+	margin-right:41px;
+}
+.img {
+     text-align: center;
+ }
+.menu {
+	padding: 37px;
+	margin: 0;
+	display: block;
+	float: right;
+}
+nav {
+	float: right;
+	margin-top: 45px;
+}
+.menu li {
+	float: left;
+	display: block;
+	margin-right:41px;
+}
+.menu a {
+	text-decoration: none;
+	text-transform: uppercase;
+    color:#808080;
+    margin-right:31px;
+}
+table {
+	 width:60%;
+	 margin: auto;
+	  border-spacing: 7px 11px;
+
+}
+td{
+	padding:15px;
+	text-align: left;
+}
+th{
+	text-align:left;
+	padding:20px;
+}
+table h2 {
+	font-size:13px;
+	color: #B0B0B0;
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    width: 100%;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+ h4 {
+	font-size:13px;
+	color: #B0B0B0;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+h1, p {
+	color:#606060;
+}
+.button {
+	background: #ffff;
+	color: #B0B0B0;
+	 border: 2px solid #B0B0B0;
+	border-radius: 0px;
+	display: block;
+	width: 240px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-decoration: none;
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 23px;
+	margin-top: 50px;
+	margin-bottom:1400px;
+}
+section{
+	padding-top:100px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+form {
+	text-align:center;
+	padding-bottom:20px;
+	background-color:#F5F5F5;
+	font-size:25;
+	 height: 200px;
+}
+form p{
+	text-align:center;
+	font-size:35px;
+	color:black;
+	padding-top:40px;
+}
+input  {
+    font-size: 20px;
+}
+form{
+	background-color:#F5F5F5;
+}
+.button1{
+    text-align:center;   
+    padding-top:40px;
+
+}
+.sms{
+	 border: none;
+	 background-color: #F5F5F5;
+	 border-bottom: 2px solid currentColor;
+	 padding-right:15px;
+}
+ #content {
+    width: 300px; /* Ширина слоя */
+    margin: auto; /* Выравнивание по центру */
+    background:  #F5F5F5;
+    padding: 8px; 
+    outline: 0;
+    box-shadow:none !important;
+}
+footer div {
+	 padding:21px;
+
+}
+footer{
+	background-color: #F5F5F5;
+}
