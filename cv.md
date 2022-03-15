@@ -16,7 +16,7 @@
 
 ---
 
-# ** SKILLS**
+#  SKILLS
  
  * HTML
  * CSS (Bootstrap,BEM.)
@@ -27,7 +27,7 @@
 
  ----
 
- # **Code Examples **
+ # Code Examples 
 > function Person(name)  {
         this.name = name;
         this.age = 30;
@@ -37,10 +37,10 @@ console.log (new Person('Vasya'));
 
 ----
 
-# **Education:**
+# Education:
 * App/ The Rolling Scopes School
 
-# **Languages**
+# Languages
 * Russian — Native
 + English — A1 — Basic(A2 in process)
 - Polish — B1 — Intermediate
