@@ -1,0 +1,141 @@
+body {
+    background: linear-gradient(180deg, rgba(250, 85, 135, 0.76) 57.08%, rgba(250, 85, 135, 0) 100%) no-repeat;
+    font-family: 'Secular One ';
+}
+.cv{
+    background:  #E0E0E0;
+    width: 600px;
+    height: 950px;
+    box-shadow: 10px 10px 10px 5px rgba(0, 0, 0, 0.2);
+    margin-left: 350px;
+}
+.cv_block {
+    margin-left: 45px;
+    margin-bottom: 700px;
+}
+h3 {
+  font-size: 30px;
+  padding-top: 58px;
+}
+.line {
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    text-decoration-line: underline;
+    width: 230px;
+}
+
+.line_profile {
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    text-decoration-line: underline;
+    width: 230px;
+    margin-top: -20px;
+    margin-bottom: 21px;
+}
+p{
+    font-size: 10px;
+}
+h2{
+    font-size: 14px;
+}
+.cv_connection img, .cv_connection p{
+    display: inline;
+    padding-left: 13px;
+    font-size: 9px;
+    padding-right: 6px;
+}
+.cv_skills{
+    height: 181px;
+    margin-top: 30px;
+    background: rgba(255, 126, 146, 0.33);
+}
+h1{
+    font-size: 20px;
+}
+.cv_skills h1{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.cv_skills ul{ 
+    padding-left: 1px;
+}
+.cv_skills li{
+    list-style-type: none;
+    font-size: 12px;
+    padding-left: 15px;
+}
+.code{
+    padding-top: 5px;
+}
+.code p{
+    font-size: 13px;
+}
+.cv_block_left{
+    margin-left: 20px;
+    margin-bottom: 500px;
+    vertical-align: top;
+}
+.cv_block_left img {
+    width: 250px;
+    height: 369px;
+    margin-top: -3px;
+    margin-left: 20px;
+}
+.cv_name { 
+    font-size: 27px;
+    transform:  translate(10%, -120%);
+    font-weight: bold;
+    color: #E0E0E0;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+}
+.cv_aducation {
+    width: 250px;
+    height: 374px;
+    margin-left: 20px;
+    margin-top: -80px;
+    background: rgba(255, 126, 146, 0.79);
+}
+.cv_aducation h1 {
+    padding-top: 20px;
+    padding-left: 11px;
+}
+.cv_block_left p,
+ .cv_block_left h4,
+ .cv_block_left h2 {
+    margin-left: 11px;
+}
+.cv_block_left h2{
+    color: #E0E0E0;
+}
+.cv_school{
+    line-height: 0.1;
+    padding-top: 5px;
+}
+.cv_school_pol{
+    line-height: 0.1;
+    padding-top: 15px;
+}
+.cv_school_app{
+    line-height: 0.1;
+    padding-top: 15px;
+}
+.cv_languages{
+    width: 250px;
+    height: 150px;
+    padding-top: 20px;
+    padding-bottom: 38px;
+    margin-left: 20px;
+    background: #000000;
+}
+.cv_languages h1{
+    color: #E0E0E0;
+    padding-left: 11px;
+}
+.line_lang{
+    color: #E0E0E0;
+    border: 1px solid rgb(255, 255, 255);
+    width: 230px;
+}
+.cv_languages_block p {
+    font-size: 13px;
+    color: #E0E0E0;
+}
