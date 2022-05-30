@@ -2,7 +2,7 @@
 
 - - - 
 
-# Tatiana Bogdanovich 
+# Tatiana Kulinkovich 
 # My Contact info:
 
 - - - 
@@ -12,18 +12,19 @@
 **Telegram:**[Tatsiana Bogdanovich](https://t.me/temporaryuser4)
 
 # About Me
-#### Мне 17 лет. Более 3 месяцев я обучаюсь Front-end разработке. У меня огромное стремление развиваться в этом направление. На данном этапе я прохожу стажировку в IT-депортаменте, прохожу обучение самостоятельно, так же с помощью Rolling Scopes School 2022(JS Front-end ). Умение осваивать новый программный продукт, быстрая и качественная работа с новыми проектами. Желание учиться новому и работать над своими навыками. Готова к стажировке, переезду(Poland) и удалённой работе. 
+#### Я, junior Front-end developer, прохожу обучение в Rolling Scopes School 2022(JS Front-end ). Умение осваивать новый программный продукт, быстрая и качественная работа с новыми проектами. Желание учиться новому и работать над своими навыками. Готова к стажировке, переезду(Poland) и удалённой работе.
 
 ---
 
 #  SKILLS
  
  * HTML
- * CSS (Bootstrap,BEM.)
- * JavaScript (DOM, Fetch, Basics, )
+ * CSS (Bootstrap,BEM.),SCSS,SASS
+ * JavaScript (in process)
  * Git/GitHub
  * Visual Studia Code, Sublime text, PyCharm, Tilda, Figma,Photoshop.
  * Markdown
+ * XWiki
 
  ----
 
@@ -42,5 +43,5 @@ console.log (new Person('Vasya'));
 
 # Languages
 * Russian — Native
-+ English — A1 — Basic(A2 in process)
++ English — A1 — Starter(A2 in process)
 - Polish — B1 — Intermediate
