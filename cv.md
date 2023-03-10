@@ -17,3 +17,37 @@ developers, also practice new development features and in parallel study at the
 university faculty "Informatics (Python)". In May 2022, I successfully completed an
 internship with AUTOIDEA BMW (attached is a description of the work I did). 
 ---
+
+#  SKILLS
+ 
+ * HTML
+ * CSS (Bootstrap),SCSS,SASS
+ * JavaScript 
+ * Git/GitHub
+ * Visual Studia Code,VisualStudia,Sublime text.
+ * Photoshop, Figma, Acrobat.
+ * WordPress(CMS), PHP
+ * Hosts,Domains,VirtualMachines.
+ * Python(Basics)
+
+ ----
+
+ # Code Examples 
+> function Person(name)  {
+        this.name = name;
+        this.age = 30;
+       }
+console.log (new Person('Tanya'));
+console.log (new Person('Vasya'));
+
+----
+
+# Education:
+* App/ The Rolling Scopes School
+* 2022(extern)Minsk, Belarus, High School Secondary education
+* 2022-2025 Wroclaw,Poland. Engineer,  University of Lower Silesia
+
+# Languages
+* Russian — Native
++ English — A2 — pre-intermediate
+- Polish — B1 — Intermediate
